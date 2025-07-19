@@ -367,7 +367,7 @@ If you find this payment page helpful, consider supporting the development:
 
 <div align="center">
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20Development-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://arya182-ui.github.io/buy-a-coffee-for-me/)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕%20Buy%20Me%20a%20Coffee-Support%20Development-FF6B35?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://coff.ee/arya182)
 [![GitHub Sponsors](https://img.shields.io/badge/💖%20GitHub%20Sponsors-Sponsor-EA4AAA?style=for-the-badge&logo=github-sponsors)](https://github.com/sponsors/Arya182-ui)
 [![Star Repository](https://img.shields.io/badge/⭐%20Star%20Repository-Support%20Project-yellow?style=for-the-badge&logo=github)](https://github.com/Arya182-ui/buy-a-coffee-for-me)
 
