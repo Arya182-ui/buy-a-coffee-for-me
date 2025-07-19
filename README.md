@@ -3,10 +3,6 @@
 
 # ☕ Buy Me a Coffee - Payment Page
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B35&center=true&vCenter=true&width=500&lines=Support+Open+Source+Projects;Secure+Payment+Integration;UPI+%26+QR+Code+Payments;Built+with+❤️+for+Community" alt="Typing SVG" />
-
-### 💖 *A beautiful and secure donation page to support open source developers and creators*
-
 ---
 
 ## 🏆 Project Status & Features
