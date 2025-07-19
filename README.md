@@ -3,8 +3,6 @@
 
 # ☕ Buy Me a Coffee - Payment Page
 
-### 💖 *A beautiful and secure donation page to support open source developers and creators*
-
 ---
 
 ## 🏆 Project Status & Features
