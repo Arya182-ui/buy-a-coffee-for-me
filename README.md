@@ -5,6 +5,18 @@
 
 ---
 
+<div align="center">
+  <p><strong>🔒 Archived on 24 January 2026</strong></p>
+  <p>
+    This project is no longer under active development.<br>
+    The repository remains available for reference and reuse.<br>
+    For questions or collaboration, please contact the maintainer.
+  </p>
+</div>
+
+---
+
+
 ## 🏆 Project Status & Features
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Active-success?style=for-the-badge&logo=vercel)](https://arya182-ui.github.io/buy-a-coffee-for-me/)
